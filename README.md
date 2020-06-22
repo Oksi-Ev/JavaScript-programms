@@ -1,2 +1,2 @@
 # JavaScript-programms
-My first programms on JavaScript
+This repository contains my first programms on JavaScript.
